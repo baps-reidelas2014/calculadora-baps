@@ -4,6 +4,9 @@
     font-weight: bolder;
     font-family: cursive;
 }
+.texto{
+  font-size: 3vw;
+}
 html, body {
     height: 100%;
     width: 100%;
@@ -11,29 +14,30 @@ html, body {
   }
   
   .button{
-    width: 65px;
-    padding: 20px;
-    margin: 0 7px;
-    border: 2px solid black;
+    width: 4.514vw;
+    padding: 1.389vw;
+    margin: 0 0.486vw;
+    border: 0.139vw solid black;
     background-color: #7fff00;
-    border-radius: 9px;
+    border-radius: 0.625vw;
     cursor: pointer;
+    font-size: 1vw;
   }
   
   .row{
-    margin: 8px 0;
+    margin: 0.556vw 0;
   }
   .row input{
-    width: 320px;
-    font-size: 20px;
+    width: 22.222vw;
+    font-size: 1.389vw;
     margin: 0;
-    padding: 10px 0px;
-    border: 2px solid black;
-    border-radius: 5px;
+    padding: 0.694vw 0vw;
+    border: 0.139vw solid black;
+    border-radius: 0.347vw;
   }
   .texto{
     text-align: center;
-    margin: 20px;
+    margin: 1.389vw;
   }
   .container{
     margin: auto;
@@ -41,7 +45,10 @@ html, body {
     flex-direction: column;
     align-items: center;
     background-color: #3D3D3D;
-    margin: 0px 500px 0px 500px;
-    border-radius: 5px;
+    margin: 0vw 34.722vw 0vw 34.722vw;
+    border-radius: 0.347vw;
+    width: 25.042vw;
+    height: 33.264vw;
+
   }
   
